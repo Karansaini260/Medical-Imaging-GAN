@@ -1,2 +1,22 @@
-# Medical-Data-in-Spain-5
-Working with medical imaging data, learners explore using neural networks to generate new images such as X-rays and MRIs. They accomplish this using Generative Adversarial Network (GAN) systems, both by building custom architectures and leveraging pre-trained models. Learners also create a web app using Streamlit to allow users to interact with the GAN. Additionally, learners use Git and GitHub to track the app's code.
+# Medical Data in Spain — GAN Imaging 🧬
+
+Generative Adversarial Networks for **medical imaging** — generating synthetic
+X-rays and MRIs. Includes a **Streamlit** web app to interact with the GAN.
+*(Guided project completed as part of a Coursera learning path.)*
+
+## ✨ What It Does
+- Builds custom GAN architectures for medical images
+- Leverages pre-trained models for generation
+- Streamlit front-end for user interaction
+
+## 🚀 Getting Started
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🛠️ Built With
+- Python · PyTorch/TensorFlow · Streamlit
+
+## 📄 License
+MIT
